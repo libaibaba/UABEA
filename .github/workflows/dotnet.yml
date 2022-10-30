@@ -53,4 +53,4 @@ jobs:
       with:
         files: UABEAvalonia/bin/Release/net6.0
         tag_name: v0.01
-        name: VideoRecorderApp v0.01
+        name: UABEA v0.01
